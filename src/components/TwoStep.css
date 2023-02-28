@@ -1,0 +1,135 @@
+.TwoStep {
+  margin: 4rem 6rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.TwoStep h1 {
+  font-size: 5rem;
+  margin-top: 2.5rem;
+}
+
+.TwoStep h2 {
+  margin-top: 6rem;
+}
+
+.TwoStep img {
+  width: 25%;
+  margin: 1rem 0;
+}
+
+.lastPic {
+  width: 80% !important ;
+  border-radius: 50px;
+}
+
+.info-txt {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+  gap: 8rem;
+  margin: 4rem 0;
+}
+
+.sub-title {
+  padding-bottom: 3rem;
+  text-align: start;
+}
+
+.answer {
+  text-align: end;
+  padding-bottom: 3rem;
+}
+
+.AnimeDatacard {
+  margin-top: 3rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+.a-card {
+  width: 32%;
+  text-align: start;
+  box-shadow: 0 5px 25px 2px rgba(0, 0, 0, 0.11);
+  border-radius: 7px;
+  cursor: pointer;
+  padding: 1rem 0.8rem;
+  margin-bottom: 5rem;
+}
+
+.a-image {
+  height: 200px;
+  overflow: hidden;
+  border-radius: 7px;
+}
+.a-image img {
+  width: 100%;
+  height: 100%;
+  transition: 0.3s ease-in-out;
+  border-radius: 7px;
+}
+.a-image:hover img {
+  transform: scale(1.3);
+}
+
+.a-card h4 {
+  font-size: 1.3rem;
+  padding: 0.9rem 0 0.2rem 0;
+}
+.a-card button {
+  padding: 0.5rem 1rem;
+  white-space: nowrap;
+  border-radius: 0.3rem;
+  font-size: 1rem;
+  font-weight: 600;
+  border: none;
+  cursor: pointer;
+  transition: 0.2s ease-in-out;
+  margin-top: 1.5rem;
+}
+
+.a-card button a {
+  text-decoration: none;
+  color: #000;
+}
+.a-card button:hover a {
+  color: #fff;
+}
+
+button:hover {
+  background-color: #151516;
+  color: #fff;
+}
+
+@media screen and (max-width: 850px) {
+  .TwoStep {
+    margin: 4rem 2rem;
+  }
+
+  .TwoStep h1 {
+    font-size: 1rem;
+  }
+
+  .TwoStep p {
+    font-size: 0.7rem;
+  }
+  .showTxt p {
+    line-height: 1.9;
+  }
+
+  .AnimeDatacard {
+    flex-direction: column;
+  }
+
+  .a-card {
+    width: 100%;
+    margin-bottom: 1.5rem;
+  }
+
+  .info-txt {
+    font-size: 0.5rem;
+  }
+}

@@ -1,0 +1,47 @@
+.footer {
+  padding: 0.5rem 6rem;
+  background: #111;
+  color: #fff;
+}
+.footer img {
+  width: 15%;
+}
+
+.top {
+  display: flex;
+  align-items: center;
+  text-align: start;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.top i {
+  color: #fff;
+  font-size: 2rem;
+  margin-left: 1rem;
+}
+.top i:hover {
+  color: #008037;
+}
+
+.bottom {
+  text-align: center;
+}
+.bottom h4 {
+  font-size: 1.3rem;
+  padding: 1rem 0 0.8rem 0;
+}
+
+.fine-print {
+  font-size: 0.5rem;
+  padding-top: 2rem;
+}
+
+@media screen and (max-width: 850px) {
+  .footer {
+    padding: 4rem 2rem;
+  }
+  .footer i {
+    margin: 1rem 1rem 0 0;
+  }
+}

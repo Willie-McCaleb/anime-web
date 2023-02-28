@@ -1,0 +1,198 @@
+[
+  {
+    "id": 0,
+    "name": "KYOTO ANIMATION",
+    "video": "https://www.youtube.com/embed/JOWEKZ9GS2s",
+    "logo": "assets/kyoto-animation-1.svg",
+    "nativename": "株式会社京都アニメーション",
+    "founded": "July 12, 1985",
+    "headquarters": "Uji, Kyoto Prefecture, Japan",
+    "owners": " Hideaki Hatta (president) / YokoHatta (vice-president)",
+    "website": "www.kyotoanimation.co.jp",
+    "anime": {
+      "0": {
+        "name": "The Melancholy of Haruhi Suzumiya",
+        "pic": "assets/スクリーンショット-2019-03-12-18.20.26-min.png",
+        "alttext": "picture of the anime",
+        "studio": "Kyoto Animation",
+        "original_run": "April 2,2006 - July 2,2006",
+        "directors": "Tatsuya Ishihara / Yutaka Yamamoto",
+        "producers": "Hideaki Hatta / Atushi Itou"
+      },
+      "1": {
+        "name": "Clannad",
+        "pic": "assets/スクリーンショット-2019-08-13-9.00.08-min.png",
+        "alttext": "picture of the anime",
+        "studio": "Kyoto Animation",
+        "original_run": "October 4,2007 - March 27,2008",
+        "directors": "Tatsuya Ishihara",
+        "producers": "Fumihiko Shimo"
+      },
+      "2": {
+        "name": "Love,Chunibyo & Delusions",
+        "pic": "assets/スクリーンショット-2019-03-12-18.36.01-min.png",
+        "alttext": "picture of the anime",
+        "studio": "Kyoto Animation",
+        "original_run": "October 4,20012 - December 19,2012",
+        "directors": "Tatsuya Ishihara",
+        "producers": "Eharu Ōhashi / Shigeru Saitō / Shinichi Nakamura"
+      },
+      "3": {
+        "name": "Violet Evergarden",
+        "pic": "assets/スクリーンショット-2019-08-13-7.58.33-min.png",
+        "alttext": "picture of the anime",
+        "studio": "Kyoto Animation",
+        "original_run": "December 25,2015 - March 28,2020",
+        "directors": "Taichi Ishidate / Haruka Fujita",
+        "producers": "Shinichirou Hatta / Kazusa Umeda / Shinichi Nakamura / Shigeru Saitou"
+      }
+    }
+  },
+  {
+    "id": 1,
+    "name": "TOEI ANIMATION",
+    "video": "https://www.youtube.com/embed/Q4ByyRYgyZw",
+    "logo": "assets/Toei_Animation_logo.svg.png",
+    "nativename": "株式会社京都アニメーション",
+    "founded": "January 23, 1948",
+    "headquarters": "Oizumi, Nerima, Tokyo, Japan",
+    "owners": " Kenzō Masaoka / Zenjirō Yamamoto",
+    "website": "www.toei-anim.co.jp",
+    "anime": {
+      "0": {
+        "name": "ONE PIECE",
+        "pic": "assets/one-ppiece.jpg",
+        "alttext": "picture of the anime",
+        "studio": "TOEI Animation",
+        "original_run": "October 20,1999 - Present",
+        "directors": "Kōnosuke Uda / Munehisa Sakai / Tatsuya Nagamine",
+        "producers": "Junki Takegami / Hirohiko Kamisaka / Shōji Yonemura"
+      },
+      "1": {
+        "name": "DRAGON BALL Z",
+        "pic": "assets/goku.jpeg",
+        "alttext": "picture of the anime",
+        "studio": "TOEI Animation",
+        "original_run": "April 26,1989 - January 31,1996",
+        "directors": "Daisuke Nishio / Shigeyasu Yamauchi",
+        "producers": "Takao Koyama"
+      },
+      "2": {
+        "name": "YU-GI-OH",
+        "pic": "assets/92660-16542184879211-1920.jpg",
+        "alttext": "picture of the anime",
+        "studio": "TOEI Animation",
+        "original_run": "April 4,1998 - October 10,1998",
+        "directors": "Hiroyuki Kakudō",
+        "producers": "Toshiki Inoue"
+      },
+      "3": {
+        "name": "SAILOR MOON",
+        "pic": "assets/7211fbd59c1a5de4333158571c367151.jpg",
+        "alttext": "picture of the anime",
+        "studio": "TOEI Animation",
+        "original_run": "March 7,1992 - February 8,1997",
+        "directors": "unichi Sato / Kunihiko Ikuhara / Takuya Igarashi",
+        "producers": "Iriya Azuma / Kenji Ōta / Toshihiko Arisako / Kōichi Yada"
+      }
+    }
+  },
+  {
+    "id": 2,
+    "name": "WIT STUDIO",
+    "video": "https://www.youtube.com/embed/vRFXi1kFcs8",
+    "logo": "assets/557c92e50a648d26cfe097e51b8e40875b2cc62f_hq.jpg",
+    "nativename": "株式会社ウィットスタジオ",
+    "founded": "June 1, 2012",
+    "headquarters": "Musashino, Tokyo, Japan",
+    "owners": "George Wada",
+    "website": "www.witstudio.co.jp",
+    "anime": {
+      "0": {
+        "name": "ATTACK ON TITAN",
+        "pic": "assets/aot.jpg",
+        "alttext": "picture of the anime",
+        "studio": "WIT / MAPPA Studio",
+        "original_run": "April 7,2013 - Present",
+        "directors": "Tetsurō Araki / Masashi Koizuka/ Yuichiro Hayashi / Jun Shishido",
+        "producers": "Yasuko Kobayash / Hiroshi Seko / Shintarō Kawakubo"
+      },
+      "1": {
+        "name": "VINLAND SAGA",
+        "pic": "assets/02-vinland-saga-wit-studio-anime.jpg",
+        "alttext": "picture of the anime",
+        "studio": "WIT / MAPPA Studio",
+        "original_run": "July 7,2019 - Present",
+        "directors": "Shūhei Yabuta",
+        "producers": "Hiroshi Seko / Kenta Ihara"
+      },
+      "2": {
+        "name": "KABANERI OF THE IRON FORTRESS",
+        "pic": "assets/05-kabaneri-of-the-iron-fortress-wit-studio-anime.jpg",
+        "alttext": "picture of the anime",
+        "studio": "WIT Studio",
+        "original_run": "April 8,2016 - June 30,2016",
+        "directors": "Tetsurō Araki",
+        "producers": "Ichirō Ōkouchi"
+      },
+      "3": {
+        "name": "SERAPH OF THE END",
+        "pic": "assets/07-seraph-of-the-end-wit-studio-anime.jpg",
+        "alttext": "picture of the anime",
+        "studio": "WIT Studio",
+        "original_run": "April 4,2015 - December 26,2015",
+        "directors": "Daisuke Tokudo",
+        "producers": "Hiroshi Seko"
+      }
+    }
+  },
+  {
+    "id": 3,
+    "name": "MAPPA STUDIO",
+    "video": "https://www.youtube.com/embed/jarDHkIVI3w",
+    "logo": "assets/MAPPA_Logo.svg",
+    "nativename": "株式会社MAPPA",
+    "founded": "June 14, 2011",
+    "headquarters": "Suginami, Tokyo, Japan",
+    "owners": " Manabu Otsuka (CEO) / Masao Maruyama (Chairman)",
+    "website": "www.mappa.co.jp",
+    "anime": {
+      "0": {
+        "name": "JUJUTSU KAISEN",
+        "pic": "assets/jk.jpeg",
+        "alttext": "picture of the anime",
+        "studio": "MAPPA Studio",
+        "original_run": "October 3,2020 - Present",
+        "directors": "Sunghoo Park",
+        "producers": "Hiroshi Seko"
+      },
+      "1": {
+        "name": "THE GOD OF HIGH SCHOOL",
+        "pic": "assets/The-God-of-High-School.webp",
+        "alttext": "picture of the anime",
+        "studio": "MAPPA Studio",
+        "original_run": "July 6,2020 - September 28,2020",
+        "directors": "Sunghoo Park",
+        "producers": "Kiyoko Yoshimura"
+      },
+      "2": {
+        "name": "ATTACK ON TITAN",
+        "pic": "assets/aot.jpg",
+        "alttext": "picture of the anime",
+        "studio": "MAPPA / WIT Studio",
+        "original_run": "April 7,2013 - Present",
+        "directors": "Tetsurō Araki / Masashi Koizuka/ Yuichiro Hayashi / Jun Shishido",
+        "producers": "Yasuko Kobayash / Hiroshi Seko / Shintarō Kawakubo"
+      },
+      "3": {
+        "name": "DORORO",
+        "pic": "assets/dororo.jpg",
+        "alttext": "picture of the anime",
+        "studio": "MAPPA Studio",
+        "original_run": "January 7,2019 - June 24,2019",
+        "directors": "Kazuhiro Furuhashi",
+        "producers": "Yasuko Kobayashi"
+      }
+    }
+  }
+]

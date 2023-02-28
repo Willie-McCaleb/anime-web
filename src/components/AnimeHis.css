@@ -1,0 +1,18 @@
+.history-container {
+  margin: 4rem 6rem;
+  text-align: start;
+}
+
+.history-container h1 {
+  padding-bottom: 1rem;
+}
+
+.history-container p {
+  padding-bottom: 2rem;
+}
+
+@media screen and (max-width: 800px) {
+  .history-container {
+    margin: 4rem 2rem;
+  }
+}

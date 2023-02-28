@@ -1,0 +1,81 @@
+.hero {
+  width: 100%;
+  height: 100vh;
+  position: relative;
+  overflow-y: hidden;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("/public/assets/hero_img.jpg");
+  background-size: cover;
+}
+
+.hero-history,
+.hero-companies {
+  width: 100%;
+  height: 70vh;
+  position: relative;
+  background-size: cover;
+}
+
+.hero-history {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("/public/assets/history_hero.jpg");
+}
+
+.hero-companies {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("/public/assets/company_hero.jpg");
+}
+
+.hero-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: none;
+}
+
+.heroTxt {
+  position: absolute;
+  top: 55%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 100%;
+}
+.heroTxt h1 {
+  font-size: 5rem;
+  font-weight: 800;
+  background: #fff;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.heroTxt p {
+  font-size: 1.3rem;
+  color: #fff;
+  padding: 0.5rem 0 2rem 0;
+  word-spacing: 2px;
+}
+.heroTxt .show {
+  text-decoration: none;
+  background: #fff;
+  padding: 1rem 2rem;
+  border-radius: 6px;
+  font-size: 1.1rem;
+  font-weight: bold;
+  letter-spacing: 2px;
+  color: #222;
+}
+
+@media screen and (max-width: 555px) {
+  .heroTxt h1 {
+    padding: 10px 20px;
+  }
+
+  .heroTxt p {
+    font-size: 1.1rem;
+    padding: 0 0 2rem 0;
+  }
+
+  .heroTxt .show {
+    border-radius: 6px;
+    font-size: 1rem;
+  }
+}
